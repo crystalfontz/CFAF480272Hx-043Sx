@@ -1,13 +1,13 @@
 # CFAF480272Hx-043Sx
- This is Arduino sample code for the CFAF480272Hx-043Sx family of displays. These displays are 4.3" TFTs which use the Sitronix ST7282 LCD controller. This LCD controller supports a 24 bit parallel RGB interface. This demonstration code has been written for usage with the BT817 Embedded Video Engine.
+ This is Arduino sample code for the CFAF480272Hx-043Sx family of displays. These displays are 4.3" TFTs which use the Sitronix ST7282 LCD controller. This LCD controller supports a 24 bit parallel RGB interface. This demonstration code has been written for use with the BT817 Embedded Video Engine.
 
 ## Display information
 Here are links to our active displays:\
-CFAF480272Hx-043SN\
-CFAF480272Hx-043SC\
-CFAF480272Hx-043SR
+[CFAF480272H0-043SN](https://www.crystalfontz.com/product/cfaf480272h0043sn-480x272-4-point-3-inch-tft-display)\
+[CFAF480272H0-043SC](https://www.crystalfontz.com/product/cfaf480272h0043sc)\
+[CFAF480272H0-043SR](https://www.crystalfontz.com/product/cfaf480272h0043sc)
 
-Where N, C and R correspond to non-touchscreen, capacitive touchscreen and resistive touchscreen variants respectively.
+Where N, C, and R correspond to non-touchscreen, capacitive touchscreen and resistive touchscreen variants respectively.
 
 For more information about other TFT offerings, please see our full list [here](https://www.crystalfontz.com/c/tft-lcd-displays/25)
 
